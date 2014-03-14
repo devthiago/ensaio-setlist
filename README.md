@@ -11,3 +11,11 @@ Repositório de dados acerca das músicas a serem tocadas no ensaio.
 | `Pelado` | Ultraje a Rigor | [ver](http://letras.mus.br/ultraje-a-rigor/49196/) | [ver](http://www.cifraclub.com.br/ultraje-a-rigor/pelado/) | [ver](http://www.youtube.com/watch?v=TDM5vVVNiZ8) | Thiago |
 
 <!-- | `NOME_DA_MUSICA` | BANDA | [ver](LINK_PARA_A_LETRA) | [ver](LINK_PARA_A_CIFRA) | [ver](LINK_PARA_O_VIDEO) | NOME_DO_SOLICITANTE | -->
+
+#Datas e locais de ensaio
+
+| Data       | Local                                                  | Horário   | Duração | Valor total | Responsável |
+|------------|--------------------------------------------------------|-----------|---------|-------------|-------------|
+| 17/03/2014 | [Lounge Studio](http://loungeestudio.blogspot.com.br/) | 19h - 21h | 2 horas | R$ 40,00    | Thiago      |
+
+<!-- | DD/MM/AAAA | [NOME_DO_ESTUDIO](LINK) | INICIO - FIM | DURACAO | R$ 0,00    | NOME_DO_RESPONSAVEL      | -->
